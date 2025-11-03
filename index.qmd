@@ -3,7 +3,7 @@
 {{< include _includes/_katex_macros.qmd >}} 
 {{< include _includes/_r_themes.qmd >}}
 
-## Was passiert in Stufe 9 mit Euch?
+## Was passiert in Stufe 9?
 
 In diesem Jahr wendet ihr euch einer professionelleren Arbeitsweise in der Informatik zu. Dazu werdet ihr zuerst die notwendige Infrastruktur einrichten, um **Quellcodemanagement** betreiben zu können. Dies st die Grundlage für den praktischen Teil der Informatik, dem wr uns zuwenden: **Programmieren**.
 
