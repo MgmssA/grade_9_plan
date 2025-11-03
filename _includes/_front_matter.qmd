@@ -1,0 +1,19 @@
+---
+title: |
+    <p>![](style/mgmss_symbol_color.png){width=40px}</p>
+    Plan für Informatik in Stufe 9
+subtitle: 'Was haben wir in Stufe 9 vor?<br><small>Information</small>'
+date: 2025-08-26 
+date-modified: 2025-08-26
+author: Călin Aurel Drăgan
+abstract: 'Hier bekommst Du eine Übersicht über die fachlichen und praktischen Arbeiten, die in Informatik in Stufe 9 geplant sind. Die anschliessenden Aufgaben helfen Dir, Dich an einigen Fachbegriffe anzunähern.'
+# bibliography: references.bib
+format: 
+    csdoc-html:
+        include-in-header: _includes/_in_header.html
+        # include-after-body: _includes/_after_body.html
+        embed-resources: false
+        self-contained-math: false
+filters:
+  - highlight-text
+---

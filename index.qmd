@@ -1,0 +1,32 @@
+{{< include _includes/_front_matter.qmd >}}
+{{< include _includes/_init_fontawesome.qmd >}} 
+{{< include _includes/_katex_macros.qmd >}} 
+{{< include _includes/_r_themes.qmd >}}
+
+## Was passiert in Stufe 9?
+
+In diesem Jahr wendet ihr euch einer professionelleren Arbeitsweise in der Informatik zu. Dazu werdet ihr zuerst die notwendige Infrastruktur einrichten, um **Quellcodemanagement** betreiben zu können. Dies st die Grundlage für den praktischen Teil der Informatik, dem wr uns zuwenden: **Programmieren**.
+
+## Quellcodemanagement
+
+Ähnlich wie ein Haus konzipiert und gebaut wird, wird auch moderne Software mithilfe von Architektur, Verwaltung der Planung und Planungsvorlagen, Bauvorschriften, und anderen Aspekten hergestellt. Dabei ist es wichtig, dass Pläne ständig angepasst und aktualisiert werden.
+
+Diese Arbeitsweise hat sich in allen Ingenieurswissenschaften durchgesetzt; und so auch in der Softwaretechnik. Im Grunde genommen, besteht alle Software am Anfang aus einer recht großen Menge von Textdateien. Die händische Kontrolle von Änderungen, Speicherorten, Produktionszuführung wäre alleine bei einer einzigen Datei mühsam, und vor allem fehleranfällig. 
+
+Deshalb werden wir ein Quellcodemanagementsystem einrichten, in dem ihr eure gesamte Programmierarbeit ausführt. Dieses System ist eine Cloudlösung und heißt **GitHub**. GitHub ist eines der größten Anbieter mit etwa 100 Millionen Entwickler und mehr als 400 Millionen Projekten. 
+
+## Programmieren
+
+Programmieren war noch vor wenigen Jahrzehnten eine Tätigkeit, die auf einem einzelnen Computer und mithilfe einer einzigen Programmiersprache erfolgte. Das moderne Programmieren ist nunmehr zum **Entwickeln** geworden, weil Software aus verschiedenen Modulen mit unterschiedlichsten Funktionen und unterschiedlichen Programmiersprachen in komplexen Prozessen gebaut wird.
+
+Ein gutes Lernfeld für diese komplexe Entwicklungsarbeit sind moderne Webseiten. Diese vereinen drei unterschiedliche Programmiersprachen und mehrere Technologien in dem fertigen Produkt. Wir werden uns mit der Herstellung statischer Webseiten befassen, deren Funktionalität auf dem Browser des Clientcomputers ermöglicht wird. Dabei wirst Du fast immer Deine eigenen Ideen umzusetzen können. Der grobe Plan wird ungefähr so aussehen:
+
+#. Du lernst zuerst HTML kennen
+#. Danach bringen wir CSS ins Spiel
+#. Schließlich kommt ECMAScript, auch Javascript genannt, dazu
+#. Danach implementieren wir Multimedia 
+#. Nun ist die Zeit reif für Modularität: Programmierbibliotheken und Frameworks werden Deine Entwicklungsarbeit beschleunigen
+#. Eine weitere Vereinfachung kommt durch Markdown Sprachen und Systemen erreicht
+#. Zum Schluss wirst Du Teil eines Teams und ihr behandelt ein komplexes Thema eurer Wahl 
+
+Wir bewegen uns dabei von den Grundlagen zu immer höheren **Abstraktionsebenen**. Die Grundlagen sind einfach und simpel aber komplizierte Aufgaben lassen sich damit nur mühsam lösen. Wenn das passiert, werden wir einen Gangwechsel betreiben und auf Module zurückgreifen, die viele dieser mühsamen Schritte erleichtern. 

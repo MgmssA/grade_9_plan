@@ -1,0 +1,28 @@
+project:
+    type: default
+    output-dir: docs
+
+lang: de
+toc: true
+toc-depth: 5
+toc-location: right
+toc-expand: true
+number-sections: true
+crossref: 
+    sec-prefix: Abschnitt
+    chapters: false # If true, then the highest level screws everything up
+appendix-style: default
+
+brand: _brand.yml
+format:
+    html:
+        theme: 
+          - brand
+          - style/_custom.scss
+        css: style/_style.css
+
+engine: knitr
+execute:
+    eval: true
+    echo: false
+    
